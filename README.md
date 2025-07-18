@@ -1,4 +1,4 @@
-# music_play
+# AlumniConnect
 
 A new Flutter project.
 
