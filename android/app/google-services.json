@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "554069566184",
+    "project_id": "fir-90aab",
+    "storage_bucket": "fir-90aab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554069566184:android:7c24101b374ed0e583df5d",
+        "android_client_info": {
+          "package_name": "com.example.music_play"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYsPP5co8gIibW_HraExKVRSN5QQ_4RA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554069566184:android:24551154a2e8fd3383df5d",
+        "android_client_info": {
+          "package_name": "com.example.untitled10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYsPP5co8gIibW_HraExKVRSN5QQ_4RA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
